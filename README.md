@@ -41,9 +41,9 @@
    source install/setup.bash \
    ros2 launch lesson_urdf view_robot_launch.py 
 
-10. transform URDF to ROS2
-    git clone https://github.com/yangzk161228/mac-utm-ros2-urdf-to-ros2.git
-    cp mac-utm-ros2-urdf-to-ros2/create_ros2_urdf.py ./
+10. transform URDF to ROS2 \
+    git clone https://github.com/yangzk161228/mac-utm-ros2-urdf-to-ros2.git \
+    cp mac-utm-ros2-urdf-to-ros2/create_ros2_urdf.py ./ \
     python3 create_ros2_urdf.py
 
 
